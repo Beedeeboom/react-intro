@@ -1,8 +1,9 @@
 import React from "react"
 import ReactDOM from "react-dom"
-import App from "./App"
+import App from "./NewApp"
+import CommentApp from "./CommentApp"
 
 ReactDOM.render(
-    <App />,
+    <CommentApp />,
     document.querySelector('#root')
 )
