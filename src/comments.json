@@ -1,0 +1,19 @@
+[
+    {
+        "author": "Mary Smith",
+        "date": "11/12/2019",
+        "text": "I think you're awesome!"
+    },
+
+    {
+        "author": "John Doe",
+        "date": "11/12/2019",
+        "text": "I think you're fantastic!"
+    },
+
+    {
+        "author": "Leah Miller",
+        "date": "11/12/2019",
+        "text": "I think you're banana!"
+    }
+]
